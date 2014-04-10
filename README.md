@@ -1,1 +1,1 @@
-Hadoop Final Project Udacity Coursegit
+Hadoop Final Project Udacity Course
